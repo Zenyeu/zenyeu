@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenyeu.github.io</id>
     <title>Zenyeu</title>
-    <updated>2019-08-12T15:12:11.696Z</updated>
+    <updated>2019-08-12T15:13:26.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenyeu.github.io"/>
     <link rel="self" href="https://zenyeu.github.io/atom.xml"/>
@@ -25,14 +25,6 @@
 </code></pre>
 <p>在当下社会，人们无不为了生存，总是不停地在奔波劳碌当中。生存，是快节奏的；而生活，应是慢节奏的。休闲、舒适，才应是生活对应的形容词。
 如今我们处于电子信息时代，亦称数字时代。各种各样的数字与我们息息相关紧密相连，因而在数字时代的生活，可谓是数字生活。</p>
-<!-- more -->
-<h2 id="优质平台分享dgtle数字尾巴">优质平台分享——Dgtle数字尾巴</h2>
-<p>数字尾巴，是一个极具包容性的分享平台，在这个平台上，有着各种的话题、文章，分享现代科技，分享着时下产品，分享着数字时代中尾巴们的数字生活，各自的美好得以共享。</p>
-<p>在两年多以前，Zenyeu遇到了数字尾巴，在尾巴上阅读了一篇又一篇的文章，对数码的兴趣愈加深厚，对美好的数字生活也愈加向往。</p>
-<p><img src="https://zenyeu.github.io/post-images/1565508638840.jpg" alt=""></p>
-<p>而Zenyeu在一天又一天与尾巴的相见之中，Zenyeu似乎眼界更广阔了，审美也提高了，生活更有讲究了。
-是的，这就是数字尾巴的魅力所在，他可以开阔我们的眼界，可以提高我们的审美，可以让我们知道，原来生活也可以过的如此美好。</p>
-<p>正因这份美好，让我，让所有尾巴们，都始终保持着对美好生活的热爱与向往，变得更加努力！</p>
 ]]></content>
     </entry>
     <entry>
@@ -46,25 +38,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
