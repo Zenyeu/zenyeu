@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenyeu.github.io</id>
     <title>Zenyeu</title>
-    <updated>2019-09-18T15:39:12.109Z</updated>
+    <updated>2019-11-30T06:00:34.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenyeu.github.io"/>
     <link rel="self" href="https://zenyeu.github.io/atom.xml"/>
@@ -10,34 +10,6 @@
     <logo>https://zenyeu.github.io/images/avatar.png</logo>
     <icon>https://zenyeu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Zenyeu</rights>
-    <entry>
-        <title type="html"><![CDATA[数字时代下的数字生活]]></title>
-        <id>https://zenyeu.github.io/post/sheng-cun-yu-shu-zi-shi-dai-xia-de-shu-zi-sheng-huo</id>
-        <link href="https://zenyeu.github.io/post/sheng-cun-yu-shu-zi-shi-dai-xia-de-shu-zi-sheng-huo">
-        </link>
-        <updated>2019-08-11T06:42:05.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>    生存与生活，是两个不同的词语，是两个不同的概念。
-</code></pre>
-<p>在当下社会，人们无不为了生存，总是不停地在奔波劳碌当中。生存，是快节奏的；而生活，应是慢节奏的。休闲、舒适，才应是生活对应的形容词。</p>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>    生存与生活，是两个不同的词语，是两个不同的概念。
-</code></pre>
-<p>在当下社会，人们无不为了生存，总是不停地在奔波劳碌当中。生存，是快节奏的；而生活，应是慢节奏的。休闲、舒适，才应是生活对应的形容词。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zenyeu.github.io/post/hello-gridea</id>
-        <link href="https://zenyeu.github.io/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于Zenyeu]]></title>
         <id>https://zenyeu.github.io/post/about</id>
