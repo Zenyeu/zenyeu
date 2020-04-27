@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wrvet7.coding-pages.com</id>
+    <id>https://zenyeu.github.io</id>
     <title>Zenyeu</title>
-    <updated>2020-04-27T02:48:39.496Z</updated>
+    <updated>2020-04-27T03:37:32.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wrvet7.coding-pages.com"/>
-    <link rel="self" href="https://wrvet7.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://zenyeu.github.io"/>
+    <link rel="self" href="https://zenyeu.github.io/atom.xml"/>
     <subtitle>To explore the world ❤️</subtitle>
-    <logo>https://wrvet7.coding-pages.com/images/avatar.png</logo>
-    <icon>https://wrvet7.coding-pages.com/favicon.ico</icon>
+    <logo>https://zenyeu.github.io/images/avatar.png</logo>
+    <icon>https://zenyeu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Zenyeu</rights>
     <entry>
         <title type="html"><![CDATA[影集]]></title>
-        <id>https://wrvet7.coding-pages.com/post/ying-ji/</id>
-        <link href="https://wrvet7.coding-pages.com/post/ying-ji/">
+        <id>https://zenyeu.github.io/post/ying-ji/</id>
+        <link href="https://zenyeu.github.io/post/ying-ji/">
         </link>
         <updated>2019-11-30T06:52:02.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="zenyeu-photography">ZENYEU PHOTOGRAPHY</h2>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于Zenyeu]]></title>
-        <id>https://wrvet7.coding-pages.com/post/about/</id>
-        <link href="https://wrvet7.coding-pages.com/post/about/">
+        <id>https://zenyeu.github.io/post/about/</id>
+        <link href="https://zenyeu.github.io/post/about/">
         </link>
         <updated>2001-05-19T04:15:00.000Z</updated>
     </entry>
