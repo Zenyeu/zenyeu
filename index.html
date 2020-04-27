@@ -1,128 +1,128 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Zenyeu</title>
-<link rel="shortcut icon" href="http://blog.zenyeu.tk/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="http://blog.zenyeu.tk/media/css/tailwind.css">
+<link rel="shortcut icon" href="http://blog.zenyeu.tk/favicon.ico?v=1587961459607">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="http://blog.zenyeu.tk/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Zenyeu - Atom Feed" href="http://blog.zenyeu.tk/atom.xml">
 
-    
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
 
-  <meta name="description" content="To explore the world ❤️" />
-</head>
-<body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
 
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
-    </div>
-  </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
-    
-      <a href="https://zenyeu.github.io" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        首页
-      </a>
-    
-      <a href="https://zenyeu.github.io/post/ying-ji" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        影集
-      </a>
-    
-      <a href="https://zenyeu.github.io/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        关于
-      </a>
-    
-    <a href="http://blog.zenyeu.tk/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
-</div>
 
-    <div class="max-w-4xl w-full mx-auto ">
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="http://blog.zenyeu.tk">
+  <img class="avatar" src="http://blog.zenyeu.tk/images/avatar.png?v=1587961459607" alt="">
+  </a>
+  <h1 class="site-title">
+    Zenyeu
+  </h1>
+  <p class="site-description">
+    To explore the world ❤️
+  </p>
+  <div class="menu-container">
+    
       
-        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-0 animated fadeIn">
-  <div class="flex-1 order-2 md:order-1 md:pr-16">
-    <div class="text-4xl font-bold text-center md:text-left">
-      Zenyeu
-    </div>
-    <div class="text-xl text-gray-500 mt-4 text-center md:text-left">
-      To explore the world ❤️
-    </div>
-    
-    
-  </div>
-  <div class="md:mx-8 flex-shrink-0 self-start rounded-full border-4 border-dotted border-transparent hover:border-yellow-50 p-2 w-32 h-32 order-1 md:order-2 mx-auto s3-dotted">
-    <img class="rounded-full object-cover" src="http://blog.zenyeu.tk/images/avatar.png?v=1587961050116" alt="Zenyeu" width="100%" height="100%">
-  </div>
-</header>
+        <a href="http://blog.zenyeu.tk" class="menu">
+          首页
+        </a>
       
-
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
-        
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
     
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="http://blog.zenyeu.tk/post/ying-ji/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+      
+        <a href="http://blog.zenyeu.tk/post/ying-ji" class="menu">
           影集
         </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-11-30</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
+      
+    
+      
+        <a href="http://blog.zenyeu.tk/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+    
+        <div class="post-container">
+  
+    <article class="post">
+      <a href="http://blog.zenyeu.tk/post/ying-ji/">
+        <h2 class="post-title">影集</h2>
+      </a>
+      <div class="post-info">
+        <time class="post-time">
+          · 2019-11-30 ·
+        </time>
+        
+      </div>
+      
+        <a href="http://blog.zenyeu.tk/post/ying-ji/" class="post-feature-image" style="background-image: url('http://blog.zenyeu.tk/post-images/ying-ji.jpeg')">
+        </a>
+      
+      <div class="post-abstract">
         <h2 id="zenyeu-photography">ZENYEU PHOTOGRAPHY</h2>
 
-      </div>
-      <a href="http://blog.zenyeu.tk/post/ying-ji/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="http://blog.zenyeu.tk/post-images/ying-ji.jpeg" alt="影集">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="http://blog.zenyeu.tk/post/about/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          关于Zenyeu
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2001-05-19</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        Zenyeu
-Zenyeu 学生 中国广州 网络与新媒体专业
-为什么叫 Zenyeu
-Zenyeu 一词来自个人真实姓名后两字的『粤语』拼音：zên3 yêu6
-...
-      </div>
-      <a href="http://blog.zenyeu.tk/post/about/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-  </div>
+      </di>
+    </article>
   
+    <article class="post">
+      <a href="http://blog.zenyeu.tk/post/about/">
+        <h2 class="post-title">关于Zenyeu</h2>
+      </a>
+      <div class="post-info">
+        <time class="post-time">
+          · 2001-05-19 ·
+        </time>
+        
       </div>
-
       
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
+      <div class="post-abstract">
+        
+      </di>
+    </article>
+  
+</div>
+
+    
+        <div class="pagination-container">
+  
+  
+</div>
+
+    
+        <div class="site-footer">
   Copyright © 2020 Zenyeu<br>
-Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-</footer>
+Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
+  <a class="rss" href="http://blog.zenyeu.tk/atom.xml" target="_blank">RSS</a>
+</div>
 
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
+
+      </div>
     </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="http://blog.zenyeu.tk/media/scripts/main.js"></script>
-</body>
-
+  </body>
 </html>
