@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.zenyeu.tk</id>
     <title>Zenyeu</title>
-    <updated>2020-12-19T14:07:55.761Z</updated>
+    <updated>2020-12-19T14:10:32.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.zenyeu.tk"/>
     <link rel="self" href="http://blog.zenyeu.tk/atom.xml"/>
@@ -22,10 +22,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于Zenyeu]]></title>
+        <title type="html"><![CDATA[关于]]></title>
         <id>http://blog.zenyeu.tk/post/about/</id>
         <link href="http://blog.zenyeu.tk/post/about/">
         </link>
         <updated>2001-05-19T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>关于Zenyeu</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>关于Zenyeu</p>
+]]></content>
     </entry>
 </feed>
