@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.zenyeu.tk</id>
     <title>Zenyeu</title>
-    <updated>2021-04-26T15:41:13.273Z</updated>
+    <updated>2021-04-26T15:46:14.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.zenyeu.tk"/>
     <link rel="self" href="http://blog.zenyeu.tk/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>http://blog.zenyeu.tk/images/avatar.png</logo>
     <icon>http://blog.zenyeu.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, Zenyeu</rights>
-    <entry>
-        <title type="html"><![CDATA[常用Emoji合集]]></title>
-        <id>http://blog.zenyeu.tk/post/cyemoj/</id>
-        <link href="http://blog.zenyeu.tk/post/cyemoj/">
-        </link>
-        <updated>2021-04-26T14:25:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>Emoji大全-Emoji表情符号词典： <a href="https://www.emojiall.com/zh-hans/" target="_blank">EmojiAll中文官方网站</a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Emoji大全-Emoji表情符号词典： <a href="https://www.emojiall.com/zh-hans/" target="_blank">EmojiAll中文官方网站</a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[闲暇时光充实指南：播客入门]]></title>
         <id>http://blog.zenyeu.tk/post/xxsgcs/</id>
