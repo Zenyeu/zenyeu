@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.zenyeu.tk</id>
     <title>Zenyeu</title>
-    <updated>2021-05-12T05:28:22.993Z</updated>
+    <updated>2022-01-30T10:51:18.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.zenyeu.tk"/>
     <link rel="self" href="http://blog.zenyeu.tk/atom.xml"/>
     <subtitle>To explore the world 🏃</subtitle>
     <logo>http://blog.zenyeu.tk/images/avatar.png</logo>
     <icon>http://blog.zenyeu.tk/favicon.ico</icon>
-    <rights>All rights reserved 2021, Zenyeu</rights>
+    <rights>All rights reserved 2022, Zenyeu</rights>
     <entry>
         <title type="html"><![CDATA[闲暇时光充实指南：播客入门]]></title>
         <id>http://blog.zenyeu.tk/post/xxsgcs/</id>
